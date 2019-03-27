@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -8,7 +8,7 @@
   line-height:normal;
 }
 ._一级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -32,41 +32,41 @@
   color:#FFFFFF;
 }
 ._一级标题1 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -150,7 +150,7 @@
 .icon {
 }
 ._图片4 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:13px;
@@ -165,7 +165,7 @@
   color:#000000;
 }
 ._二级标题1 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -175,6 +175,8 @@
   text-align:left;
 }
 .flow_shape {
+}
+.snapshot {
 }
 .shape {
 }
@@ -225,7 +227,7 @@
   text-align:left;
 }
 .iconfont {
-  font-family:'iconfont';
+  font-family:'iconfont Regular', 'iconfont';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -235,14 +237,14 @@
   text-align:left;
 }
 .heading_1 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -263,7 +265,7 @@
 ._水平线1 {
 }
 .shape2 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
